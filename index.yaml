@@ -3,12 +3,12 @@ entries:
   test-app:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-05-23T19:44:31.810332+01:00"
+    created: "2023-05-23T20:30:48.438834+01:00"
     description: A Helm chart for test applications
-    digest: d9dd90a8171a304e6e1b4c6ca46e5bbe2af9313adaef8e816f0f76d010ccce19
+    digest: 5b351c8803eda6aa8cc6e3dbe4cd3df62dd70d79ec1d1a92ed3abc887dafbf94
     name: test-app
     type: application
     urls:
     - https://surajincloud.github.io/surajincloud-helm/charts/test-app-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-23T19:44:31.80761+01:00"
+generated: "2023-05-23T20:30:48.437401+01:00"
